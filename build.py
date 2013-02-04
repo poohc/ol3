@@ -311,6 +311,7 @@ def examples_star_json(name, match):
                 '../externs/geojson.js',
                 '../externs/proj4js.js',
                 '../externs/tilejson.js',
+                '../externs/w3c_deviceorientation.js',
             ],
         })
         with open(t.name, 'w') as f:

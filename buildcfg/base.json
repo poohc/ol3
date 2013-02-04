@@ -43,7 +43,8 @@
     "../externs/bingmaps.js",
     "../externs/geojson.js",
     "../externs/proj4js.js",
-    "../externs/tilejson.js"
+    "../externs/tilejson.js",
+    "../externs/w3c_deviceorientation.js"
   ],
 
   "level": "VERBOSE",
